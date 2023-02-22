@@ -1,45 +1,34 @@
 h1 {
-    font-family: Helvetica;
-    font-size: 100px;
-    font-weight: bold;
-    color: khaki;
-    text-align: center;
+  background-image: url("C:/Users/Jake Haslemann/Documents/Projects/DasmotoArtsCrafts/resources/images/pattern.jpeg");
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
 }
-.header{
-    position: relative;
-    text-align: center;
-}
-#background{
-    max-height: 250px;
-    width: 100%;
+.header {
+  position: relative;
+  text-align: center;
 }
 
-
-.centered{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+.category {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#brushes {
+  background-color: mediumspringgreen;
 }
 
-.category{
-    font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
-}
-#brushes{
-    background-color: mediumspringgreen;
+#frames {
+  background-color: lightcoral;
 }
 
-#frames{
-    background-color: lightcoral;
+#paint {
+  background-color: skyblue;
 }
-
-#paint{
-    background-color: skyblue;
-}
-span{
-    color: blue;
-    font-weight: bold;
+span {
+  color: blue;
+  font-weight: bold;
 }
